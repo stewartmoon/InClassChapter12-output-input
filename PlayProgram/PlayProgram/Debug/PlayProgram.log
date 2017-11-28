@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\smoon5\desktop\playprogram\playprogram\source.cpp(14): warning C4101: 'first': unreferenced local variable
+c:\users\smoon5\desktop\playprogram\playprogram\source.cpp(14): warning C4101: 'third': unreferenced local variable
+c:\users\smoon5\desktop\playprogram\playprogram\source.cpp(14): warning C4101: 'fourth': unreferenced local variable
+c:\users\smoon5\desktop\playprogram\playprogram\source.cpp(14): warning C4101: 'second': unreferenced local variable
+  PlayProgram.vcxproj -> C:\Users\smoon5\Desktop\PlayProgram\Debug\PlayProgram.exe
+  PlayProgram.vcxproj -> C:\Users\smoon5\Desktop\PlayProgram\Debug\PlayProgram.pdb (Full PDB)
